@@ -13,6 +13,7 @@ Download and install the latest Node.js server from the [link](https://nodejs.or
 Always prefer to install LTS (Long Time Support) version, which helps you to solve error(s) occurred in node from Node.js community.  
 [Download ](https://nodejs.org/){: .btn .btn-blue}  
 To cheek node version run the following command on your terminal  
-```node
+
+```bash
 node -v
 ```  
